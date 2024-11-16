@@ -67,7 +67,8 @@ int main() {
 
 
     push(&head, 15);
-    push(&head, 10);
+    push(&head, 10); 
+    
     push(&head, 5);
     push(&head, 20);
     push(&head, 3);

@@ -65,7 +65,6 @@ void push(struct ListNode** head_ref, int new_data) {
 int main() {
     struct ListNode* head = NULL;
 
-
     push(&head, 15);
     push(&head, 10); 
     
